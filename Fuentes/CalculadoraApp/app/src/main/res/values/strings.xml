@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">CalculadoraApp</string>
     <string name="texto1">Hola Mundo</string>
-    <string name="btn_saludar">Hola byron</string>
-    <String name="btn_saludar">Hola byron</String>
+    <string name="btn_saludar">Saludar</string>
+    <string name="texto2">Hola Byron</string>
+
+
+
 </resources>
