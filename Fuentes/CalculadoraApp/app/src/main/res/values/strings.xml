@@ -3,7 +3,12 @@
     <string name="texto1">Hola Mundo</string>
     <string name="btn_saludar">Saludar</string>
     <string name="texto2">Hola Byron</string>
-
+    <string name="sumarTxt">+</string>
+    <string name="restaTxt">-</string>
+    <string name="n2Label">N2</string>
+    <string name="n1Label">N1</string>
+    <string name="mulTxt">x</string>
+    <string name="divTxt">/</string>
 
 
 </resources>
